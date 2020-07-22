@@ -1,4 +1,6 @@
 proxy:
+  title: My Shiny Proxy
+  landing-page: /app/01_hello
   port: 8080
   authentication: simple
   admin-groups: admins
